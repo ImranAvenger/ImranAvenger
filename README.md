@@ -38,6 +38,8 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 ### 🌐 Connect with Me  
 - 🌎 Personal Portfolio: [imranavenger.github.io](https://imranavenger.github.io) (Coming Soon!)  
 - 📩 Email: [imranavenger@gmail.com](mailto:imranavenger@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/imranavenger](https://linkedin.com/in/imranavenger)  
+- 💼 LinkedIn: [linkedin.com/in/imranavenger](https://linkedin.com/in/imranavenger)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ImranAvenger)](https://git.io/streak-stats)
 
 Let's collaborate and innovate together! 🚀  
